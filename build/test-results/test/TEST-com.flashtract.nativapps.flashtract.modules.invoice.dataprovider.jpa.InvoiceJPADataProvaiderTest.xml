@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.flashtract.nativapps.flashtract.modules.invoice.dataprovider.jpa.InvoiceJPADataProvaiderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-11-29T01:48:11" hostname="danielMac.local" time="0.142">
+  <properties/>
+  <testcase name="getInvoiceByInvoiceNumberTestException()" classname="com.flashtract.nativapps.flashtract.modules.invoice.dataprovider.jpa.InvoiceJPADataProvaiderTest" time="0.135"/>
+  <testcase name="getInvoiceByInvoiceNumberTest()" classname="com.flashtract.nativapps.flashtract.modules.invoice.dataprovider.jpa.InvoiceJPADataProvaiderTest" time="0.007"/>
+  <system-out><![CDATA[2020-11-28 20:48:11.603 ERROR 81344 --- [    Test worker] c.f.n.f.m.i.d.j.InvoiceJPADataProvaider  : data-provider: There was an error searching for invoice
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
