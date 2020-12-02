@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.flashtract.modules.invoice.usecase.InvoiceManagerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-02T20:14:12" hostname="danielMac.local" time="0.03">
+  <properties/>
+  <testcase name="createInvoiceTest()" classname="com.flashtract.modules.invoice.usecase.InvoiceManagerTest" time="0.027"/>
+  <testcase name="createInvoiceTestExceptionBusiness()" classname="com.flashtract.modules.invoice.usecase.InvoiceManagerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,87 +1,87 @@
-com/flashtract/nativapps/flashtract/modules/contract/usecase/rules/ruleValidator.java
- com.flashtract.nativapps.flashtract.modules.contract.usecase.rules.ruleValidator
-com/flashtract/nativapps/flashtract/modules/contract/patterns/translator/VendorDTOToEntityTranslator.java
- com.flashtract.nativapps.flashtract.modules.contract.patterns.translator.VendorDTOToEntityTranslator
-com/flashtract/nativapps/flashtract/modules/invoice/pattern/translator/InvoiceDTOToInvoiceEntityTranslator.java
- com.flashtract.nativapps.flashtract.modules.invoice.pattern.translator.InvoiceDTOToInvoiceEntityTranslator
-com/flashtract/nativapps/flashtract/foundation/framework/stereotypes/DataProvider.java
- com.flashtract.nativapps.flashtract.foundation.framework.stereotypes.DataProvider
-com/flashtract/nativapps/flashtract/SwaggerConfiguration.java
- com.flashtract.nativapps.flashtract.SwaggerConfiguration
-com/flashtract/nativapps/flashtract/FlashtractPortalApplication.java
- com.flashtract.nativapps.flashtract.FlashtractPortalApplication
-com/flashtract/nativapps/flashtract/crosscutting/persistence/entity/Contract.java
- com.flashtract.nativapps.flashtract.crosscutting.persistence.entity.Contract
- com.flashtract.nativapps.flashtract.crosscutting.persistence.entity.Contract$ContractBuilder
-com/flashtract/nativapps/flashtract/modules/contract/patterns/translator/ContractEntityTOContractDTOTranslator.java
- com.flashtract.nativapps.flashtract.modules.contract.patterns.translator.ContractEntityTOContractDTOTranslator
-com/flashtract/nativapps/flashtract/foundation/framework/exceptions/FlashtractApplicationException.java
- com.flashtract.nativapps.flashtract.foundation.framework.exceptions.FlashtractApplicationException
-com/flashtract/nativapps/flashtract/foundation/framework/exceptions/util/ExceptionBuilder.java
- com.flashtract.nativapps.flashtract.foundation.framework.exceptions.util.ExceptionBuilder
-com/flashtract/nativapps/flashtract/crosscutting/domain/ContractDTO.java
- com.flashtract.nativapps.flashtract.crosscutting.domain.ContractDTO
- com.flashtract.nativapps.flashtract.crosscutting.domain.ContractDTO$ContractDTOBuilder
-com/flashtract/nativapps/flashtract/modules/contract/usecase/rules/impl/ContractApproverByBill.java
- com.flashtract.nativapps.flashtract.modules.contract.usecase.rules.impl.ContractApproverByBill
-com/flashtract/nativapps/flashtract/modules/invoice/usecase/InvoiceManager.java
- com.flashtract.nativapps.flashtract.modules.invoice.usecase.InvoiceManager
-com/flashtract/nativapps/flashtract/foundation/framework/stereotypes/UseCase.java
- com.flashtract.nativapps.flashtract.foundation.framework.stereotypes.UseCase
-com/flashtract/nativapps/flashtract/foundation/framework/exceptions/FlashtractSystemException.java
- com.flashtract.nativapps.flashtract.foundation.framework.exceptions.FlashtractSystemException
-com/flashtract/nativapps/flashtract/crosscutting/constants/ErrorType.java
- com.flashtract.nativapps.flashtract.crosscutting.constants.ErrorType
-com/flashtract/nativapps/flashtract/modules/contract/dataprovider/jpa/ContractDataJPAProvider.java
- com.flashtract.nativapps.flashtract.modules.contract.dataprovider.jpa.ContractDataJPAProvider
-com/flashtract/nativapps/flashtract/modules/invoice/pattern/translator/InvoiceToInvoiceDTOTranslator.java
- com.flashtract.nativapps.flashtract.modules.invoice.pattern.translator.InvoiceToInvoiceDTOTranslator
-com/flashtract/nativapps/flashtract/crosscutting/persistence/entity/Vendor.java
- com.flashtract.nativapps.flashtract.crosscutting.persistence.entity.Vendor
- com.flashtract.nativapps.flashtract.crosscutting.persistence.entity.Vendor$VendorBuilder
-com/flashtract/nativapps/flashtract/foundation/framework/stereotypes/WebApi.java
- com.flashtract.nativapps.flashtract.foundation.framework.stereotypes.WebApi
-com/flashtract/nativapps/flashtract/crosscutting/domain/VendorDTO.java
- com.flashtract.nativapps.flashtract.crosscutting.domain.VendorDTO
- com.flashtract.nativapps.flashtract.crosscutting.domain.VendorDTO$VendorDTOBuilder
-com/flashtract/nativapps/flashtract/crosscutting/persistence/repository/jpa/ContractRepository.java
- com.flashtract.nativapps.flashtract.crosscutting.persistence.repository.jpa.ContractRepository
-com/flashtract/nativapps/flashtract/crosscutting/constants/ContractStatus.java
- com.flashtract.nativapps.flashtract.crosscutting.constants.ContractStatus
-com/flashtract/nativapps/flashtract/modules/contract/api/rest/ContractWebApi.java
- com.flashtract.nativapps.flashtract.modules.contract.api.rest.ContractWebApi
-com/flashtract/nativapps/flashtract/foundation/framework/exceptions/FlashtractBusinessException.java
- com.flashtract.nativapps.flashtract.foundation.framework.exceptions.FlashtractBusinessException
-com/flashtract/nativapps/flashtract/foundation/framework/exceptions/util/ErrorResponseEntityBuilder.java
- com.flashtract.nativapps.flashtract.foundation.framework.exceptions.util.ErrorResponseEntityBuilder
-com/flashtract/nativapps/flashtract/crosscutting/domain/DocumentationDTO.java
- com.flashtract.nativapps.flashtract.crosscutting.domain.DocumentationDTO
-com/flashtract/nativapps/flashtract/modules/invoice/api/rest/InvoiceWebApi.java
- com.flashtract.nativapps.flashtract.modules.invoice.api.rest.InvoiceWebApi
-com/flashtract/nativapps/flashtract/modules/contract/dataprovider/ContractDataProvider.java
- com.flashtract.nativapps.flashtract.modules.contract.dataprovider.ContractDataProvider
-com/flashtract/nativapps/flashtract/foundation/framework/stereotypes/DesignConcept.java
- com.flashtract.nativapps.flashtract.foundation.framework.stereotypes.DesignConcept
-com/flashtract/nativapps/flashtract/crosscutting/persistence/entity/Invoice.java
- com.flashtract.nativapps.flashtract.crosscutting.persistence.entity.Invoice
- com.flashtract.nativapps.flashtract.crosscutting.persistence.entity.Invoice$InvoiceBuilder
-com/flashtract/nativapps/flashtract/modules/contract/patterns/translator/ContractDTOTOContractEntityTranslator.java
- com.flashtract.nativapps.flashtract.modules.contract.patterns.translator.ContractDTOTOContractEntityTranslator
-com/flashtract/nativapps/flashtract/crosscutting/domain/ErrorResponseDTO.java
- com.flashtract.nativapps.flashtract.crosscutting.domain.ErrorResponseDTO
- com.flashtract.nativapps.flashtract.crosscutting.domain.ErrorResponseDTO$ErrorResponseDTOBuilder
-com/flashtract/nativapps/flashtract/crosscutting/domain/InvoiceDTO.java
- com.flashtract.nativapps.flashtract.crosscutting.domain.InvoiceDTO
- com.flashtract.nativapps.flashtract.crosscutting.domain.InvoiceDTO$InvoiceDTOBuilder
-com/flashtract/nativapps/flashtract/crosscutting/persistence/repository/jpa/InvoiceRepository.java
- com.flashtract.nativapps.flashtract.crosscutting.persistence.repository.jpa.InvoiceRepository
-com/flashtract/nativapps/flashtract/modules/invoice/dataprovider/jpa/InvoiceJPADataProvaider.java
- com.flashtract.nativapps.flashtract.modules.invoice.dataprovider.jpa.InvoiceJPADataProvaider
-com/flashtract/nativapps/flashtract/modules/contract/usecase/ContractManager.java
- com.flashtract.nativapps.flashtract.modules.contract.usecase.ContractManager
-com/flashtract/nativapps/flashtract/crosscutting/patterns/Translator.java
- com.flashtract.nativapps.flashtract.crosscutting.patterns.Translator
-com/flashtract/nativapps/flashtract/crosscutting/constants/DocumentType.java
- com.flashtract.nativapps.flashtract.crosscutting.constants.DocumentType
-com/flashtract/nativapps/flashtract/modules/invoice/dataprovider/InvoiceDataProvider.java
- com.flashtract.nativapps.flashtract.modules.invoice.dataprovider.InvoiceDataProvider
+com/flashtract/modules/contract/usecase/ContractManager.java
+ com.flashtract.modules.contract.usecase.ContractManager
+com/flashtract/foundation/framework/stereotypes/UseCase.java
+ com.flashtract.foundation.framework.stereotypes.UseCase
+com/flashtract/modules/invoice/pattern/translator/InvoiceToInvoiceDTOTranslator.java
+ com.flashtract.modules.invoice.pattern.translator.InvoiceToInvoiceDTOTranslator
+com/flashtract/crosscutting/domain/DocumentationDTO.java
+ com.flashtract.crosscutting.domain.DocumentationDTO
+com/flashtract/crosscutting/persistence/repository/jpa/ContractRepository.java
+ com.flashtract.crosscutting.persistence.repository.jpa.ContractRepository
+com/flashtract/crosscutting/domain/ContractDTO.java
+ com.flashtract.crosscutting.domain.ContractDTO
+ com.flashtract.crosscutting.domain.ContractDTO$ContractDTOBuilder
+com/flashtract/crosscutting/domain/InvoiceDTO.java
+ com.flashtract.crosscutting.domain.InvoiceDTO
+ com.flashtract.crosscutting.domain.InvoiceDTO$InvoiceDTOBuilder
+com/flashtract/crosscutting/persistence/entity/Invoice.java
+ com.flashtract.crosscutting.persistence.entity.Invoice
+ com.flashtract.crosscutting.persistence.entity.Invoice$InvoiceBuilder
+com/flashtract/foundation/framework/exceptions/FlashtractApplicationException.java
+ com.flashtract.foundation.framework.exceptions.FlashtractApplicationException
+com/flashtract/crosscutting/persistence/entity/Contract.java
+ com.flashtract.crosscutting.persistence.entity.Contract
+ com.flashtract.crosscutting.persistence.entity.Contract$ContractBuilder
+com/flashtract/modules/contract/patterns/translator/ContractEntityTOContractDTOTranslator.java
+ com.flashtract.modules.contract.patterns.translator.ContractEntityTOContractDTOTranslator
+com/flashtract/crosscutting/persistence/repository/jpa/InvoiceRepository.java
+ com.flashtract.crosscutting.persistence.repository.jpa.InvoiceRepository
+com/flashtract/modules/contract/usecase/rules/impl/ContractApproverByBill.java
+ com.flashtract.modules.contract.usecase.rules.impl.ContractApproverByBill
+com/flashtract/crosscutting/domain/ErrorResponseDTO.java
+ com.flashtract.crosscutting.domain.ErrorResponseDTO
+ com.flashtract.crosscutting.domain.ErrorResponseDTO$ErrorResponseDTOBuilder
+com/flashtract/crosscutting/domain/VendorDTO.java
+ com.flashtract.crosscutting.domain.VendorDTO
+ com.flashtract.crosscutting.domain.VendorDTO$VendorDTOBuilder
+com/flashtract/modules/contract/usecase/rules/ruleValidator.java
+ com.flashtract.modules.contract.usecase.rules.ruleValidator
+com/flashtract/foundation/framework/exceptions/FlashtractSystemException.java
+ com.flashtract.foundation.framework.exceptions.FlashtractSystemException
+com/flashtract/foundation/framework/stereotypes/WebApi.java
+ com.flashtract.foundation.framework.stereotypes.WebApi
+com/flashtract/SwaggerConfiguration.java
+ com.flashtract.SwaggerConfiguration
+com/flashtract/modules/contract/dataprovider/ContractDataProvider.java
+ com.flashtract.modules.contract.dataprovider.ContractDataProvider
+com/flashtract/foundation/framework/exceptions/FlashtractBusinessException.java
+ com.flashtract.foundation.framework.exceptions.FlashtractBusinessException
+com/flashtract/modules/contract/patterns/translator/ContractDTOTOContractEntityTranslator.java
+ com.flashtract.modules.contract.patterns.translator.ContractDTOTOContractEntityTranslator
+com/flashtract/modules/contract/api/rest/ContractWebApi.java
+ com.flashtract.modules.contract.api.rest.ContractWebApi
+com/flashtract/foundation/framework/stereotypes/DesignConcept.java
+ com.flashtract.foundation.framework.stereotypes.DesignConcept
+com/flashtract/foundation/framework/exceptions/util/ExceptionBuilder.java
+ com.flashtract.foundation.framework.exceptions.util.ExceptionBuilder
+com/flashtract/modules/invoice/dataprovider/InvoiceDataProvider.java
+ com.flashtract.modules.invoice.dataprovider.InvoiceDataProvider
+com/flashtract/crosscutting/constants/ErrorType.java
+ com.flashtract.crosscutting.constants.ErrorType
+com/flashtract/FlashtractPortalApplication.java
+ com.flashtract.FlashtractPortalApplication
+com/flashtract/modules/contract/patterns/translator/VendorDTOToEntityTranslator.java
+ com.flashtract.modules.contract.patterns.translator.VendorDTOToEntityTranslator
+com/flashtract/modules/invoice/usecase/InvoiceManager.java
+ com.flashtract.modules.invoice.usecase.InvoiceManager
+com/flashtract/crosscutting/constants/ContractStatus.java
+ com.flashtract.crosscutting.constants.ContractStatus
+com/flashtract/foundation/framework/exceptions/util/ErrorResponseEntityBuilder.java
+ com.flashtract.foundation.framework.exceptions.util.ErrorResponseEntityBuilder
+com/flashtract/crosscutting/persistence/entity/Vendor.java
+ com.flashtract.crosscutting.persistence.entity.Vendor
+ com.flashtract.crosscutting.persistence.entity.Vendor$VendorBuilder
+com/flashtract/modules/invoice/pattern/translator/InvoiceDTOToInvoiceEntityTranslator.java
+ com.flashtract.modules.invoice.pattern.translator.InvoiceDTOToInvoiceEntityTranslator
+com/flashtract/modules/invoice/api/rest/InvoiceWebApi.java
+ com.flashtract.modules.invoice.api.rest.InvoiceWebApi
+com/flashtract/crosscutting/constants/DocumentType.java
+ com.flashtract.crosscutting.constants.DocumentType
+com/flashtract/crosscutting/patterns/Translator.java
+ com.flashtract.crosscutting.patterns.Translator
+com/flashtract/modules/contract/dataprovider/jpa/ContractDataJPAProvider.java
+ com.flashtract.modules.contract.dataprovider.jpa.ContractDataJPAProvider
+com/flashtract/foundation/framework/stereotypes/DataProvider.java
+ com.flashtract.foundation.framework.stereotypes.DataProvider
+com/flashtract/modules/invoice/dataprovider/jpa/InvoiceJPADataProvaider.java
+ com.flashtract.modules.invoice.dataprovider.jpa.InvoiceJPADataProvaider
