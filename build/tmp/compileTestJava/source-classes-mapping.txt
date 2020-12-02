@@ -1,10 +1,10 @@
-com/flashtract/nativapps/flashtract/modules/invoice/dataprovider/jpa/InvoiceJPADataProvaiderTest.java
- com.flashtract.nativapps.flashtract.modules.invoice.dataprovider.jpa.InvoiceJPADataProvaiderTest
-com/flashtract/nativapps/flashtract/modules/invoice/usecase/InvoiceManagerTest.java
- com.flashtract.nativapps.flashtract.modules.invoice.usecase.InvoiceManagerTest
-com/flashtract/nativapps/flashtract/FlashtractPortalApplicationTests.java
- com.flashtract.nativapps.flashtract.FlashtractPortalApplicationTests
-com/flashtract/nativapps/flashtract/modules/invoice/api/rest/InvoiceWebApiTest.java
- com.flashtract.nativapps.flashtract.modules.invoice.api.rest.InvoiceWebApiTest
-com/flashtract/nativapps/flashtract/DataAcrossTestingProject.java
- com.flashtract.nativapps.flashtract.DataAcrossTestingProject
+com/flashtract/modules/invoice/api/rest/InvoiceWebApiTest.java
+ com.flashtract.modules.invoice.api.rest.InvoiceWebApiTest
+com/flashtract/DataAcrossTestingProject.java
+ com.flashtract.DataAcrossTestingProject
+com/flashtract/modules/invoice/dataprovider/jpa/InvoiceJPADataProvaiderTest.java
+ com.flashtract.modules.invoice.dataprovider.jpa.InvoiceJPADataProvaiderTest
+com/flashtract/FlashtractPortalApplicationTests.java
+ com.flashtract.FlashtractPortalApplicationTests
+com/flashtract/modules/invoice/usecase/InvoiceManagerTest.java
+ com.flashtract.modules.invoice.usecase.InvoiceManagerTest
